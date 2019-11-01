@@ -1237,6 +1237,8 @@ Eversense-appen.</string>
     <string name="medtronic_pump_battery_no">Ej vald</string>
     <string name="medtronic_pump_battery_alkaline">Alkaliskt</string>
     <string name="medtronic_pump_battery_lithium">Litium</string>
+    <string name="medtronic_pump_battery_nizn">NiZn (utökad vy)</string>
+    <string name="medtronic_bolus_debugging">Avlusning av Bolus/Behandlingar</string>
     <!-- RL BLE Scanning -->
     <string name="rileylink_scanner_scan_scan">SÖK</string>
     <string name="rileylink_scanner_scan_stop">AVBRYT</string>
@@ -1374,4 +1376,6 @@ Eversense-appen.</string>
     <string name="boluswizard">Kalkylator</string>
     <string name="unit_minute_short">min</string>
     <string name="format_carbs">%1$dg</string>
+    <string name="common_on">På</string>
+    <string name="common_off">Av</string>
 </resources>
