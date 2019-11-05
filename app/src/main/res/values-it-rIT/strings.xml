@@ -83,7 +83,7 @@
     <string name="insulin_unit_shortname">U</string>
     <string name="treatments_wizard_bolusiob_label">IOB da bolo</string>
     <string name="openapsma_run">Esegui ora</string>
-    <string name="vitualpump_label">MICROINFUSORE VIRTUALE</string>
+    <string name="vitualpump_label">MICRO VIRTUALE</string>
     <string name="pump_basebasalrate_label">Velocità basale originale</string>
     <string name="pump_tempbasal_label">Basale temporanea</string>
     <string name="virtualpump_extendedbolus_label">Bolo esteso</string>
@@ -116,7 +116,7 @@
     <string name="simpleprofile">Profilo semplice</string>
     <string name="tempbasal">Basale temporanea</string>
     <string name="treatments">Trattamenti</string>
-    <string name="virtualpump">Microinfusore Virtuale</string>
+    <string name="virtualpump">Micro Virtuale</string>
     <string name="careportal">Portale</string>
     <string name="configbuilder_pump">Micro</string>
     <string name="configbuilder_pump_description">Quale microinfusore desideri utilizzare con AndroidAPS?</string>
@@ -158,7 +158,7 @@
     <string name="sms_bolus">Bolo:</string>
     <string name="basal">Basale</string>
     <string name="sms_basal">Basale</string>
-    <string name="carbs">Carb.ti</string>
+    <string name="carbs">Carboidrati</string>
     <string name="changeyourinput">Cambia il tuo input!</string>
     <string name="setextendedbolusquestion">Imposta nuovo bolo esteso:</string>
     <string name="configbuilder_bgsource">Origine glicemia</string>
@@ -1061,7 +1061,7 @@
     <string name="enable_tbr_over_notification">Abilita notifica di fine TBR\n(impostazione micro)</string>
     <string name="disable_tbr_over_notification">Disabilita notifica di fine TBR\n(impostazione micro)</string>
     <string name="refresh">Ricarica</string>
-    <string name="description_pump_insight_local">Integrazione micro Accu-Chek Insight</string>
+    <string name="description_pump_insight_local">Integrazione microinfusore Accu-Chek Insight</string>
     <string name="not_inserted">Non inserito</string>
     <string name="short_status_last_connected">Ultima conn: %1$d min fa</string>
     <string name="short_status_tbr">TBR: %1$d%% per %2$d / %3$d min</string>
@@ -1147,8 +1147,6 @@
     <string name="tidepool_upload_tbr">Carica basali temporanee</string>
     <string name="tidepool_upload_profile">Carica cambi profilo, target temporanei</string>
     <string name="tidepool_upload_bg">Carica test glicemia</string>
-    <string name="dst_in_24h_warning">Cambio all\'ora legale in 24h o meno</string>
-    <string name="dst_loop_disabled_warning">Cambio all\'ora legale avvenuto meno di 3 ore fa - Loop chiuso disabilitato</string>
     <string name="storage">vincolo di archiviazione interna</string>
     <string name="diskfull">Libera almeno %1$d MB dalla memoria interna! Loop disabilitato!</string>
     <string name="wrongformat">Formato errato</string>
