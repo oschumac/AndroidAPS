@@ -1143,8 +1143,6 @@
     <string name="tidepool_upload_tbr">Качвай временни базали</string>
     <string name="tidepool_upload_profile">Качвай смени на профил и временни цели</string>
     <string name="tidepool_upload_bg">Качвай ръчните измервания на КЗ</string>
-    <string name="dst_in_24h_warning">Смяна на времето след по-малко от 24ч</string>
-    <string name="dst_loop_disabled_warning">Смяна на времето след по-малко от 3 часа - минавам в отворен режим</string>
     <string name="storage">Ограничение поради липса на памет</string>
     <string name="diskfull">Освободете поне %1$d Мб в паметта на телефона! Loop изключен!</string>
     <string name="wrongformat">Грешен формат</string>
