@@ -1147,8 +1147,6 @@
     <string name="tidepool_upload_tbr">Perkelti laikiną bazę</string>
     <string name="tidepool_upload_profile">Perduoti profilio pokyčius, laikinas bazes</string>
     <string name="tidepool_upload_bg">Perduoti KG testus</string>
-    <string name="dst_in_24h_warning">Laiko persukimas įvyks po 24 val ar mažiau</string>
-    <string name="dst_loop_disabled_warning">Laikas persuktas prieš mažiau nei 3 val - Uždaras ciklas deaktyvuotas</string>
     <string name="storage">vidinės saugyklos apribojimas</string>
     <string name="diskfull">Atlaisvinkite ne mažiau kaip %1$d MB iš vidinės atminties! Ciklas išjungtas!</string>
     <string name="wrongformat">Neteisingas formatas</string>
