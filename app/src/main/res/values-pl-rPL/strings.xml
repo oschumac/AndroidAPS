@@ -1148,8 +1148,6 @@
     <string name="tidepool_upload_tbr">Prześlij bazy tymczasowe</string>
     <string name="tidepool_upload_profile">Prześlij zmiany profilu, cele tymczasowe</string>
     <string name="tidepool_upload_bg">Prześlij testowe BG</string>
-    <string name="dst_in_24h_warning">Zmiana na czas letni w ciągu 24 godzin lub krócej</string>
-    <string name="dst_loop_disabled_warning">Zmiana czasu nastąpiła mniej niż 3 godziny temu - Zamknięta pętla wyłączona</string>
     <string name="storage">limit wielkości pamięci wewnętrznej</string>
     <string name="diskfull">Zwolnij co najmniej %1$d MB z pamięci wewnętrznej! Pętla zatrzymana!</string>
     <string name="wrongformat">Błędny format</string>
