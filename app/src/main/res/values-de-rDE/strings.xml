@@ -1148,6 +1148,8 @@ Unerwartetes Verhalten.</string>
     <string name="tidepool_upload_tbr">Temporäre Basalrate hochladen</string>
     <string name="tidepool_upload_profile">Profilwechsel und temporäre Ziele hochladen</string>
     <string name="tidepool_upload_bg">BZ-Werte (blutig) hochladen</string>
+    <string name="dst_in_24h_warning">Zeitumstellung in weniger als 24 Stunden</string>
+    <string name="dst_loop_disabled_warning">Zeitumstellung vor weniger als 3 Stunden - Closed Loop deaktiviert</string>
     <string name="storage">interne Speicherbegrenzung</string>
     <string name="diskfull">Mindestens %1$d MB freier interer Speicher benötigt! Loop abgeschaltet!</string>
     <string name="wrongformat">Falsches Format</string>
