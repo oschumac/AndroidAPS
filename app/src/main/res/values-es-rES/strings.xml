@@ -1147,8 +1147,6 @@
     <string name="tidepool_upload_tbr">Subir basales temporales</string>
     <string name="tidepool_upload_profile">Subir conmutaciones de perfil, objetivos temps</string>
     <string name="tidepool_upload_bg">Subir pruebas BG</string>
-    <string name="dst_in_24h_warning">Cambio al horario de verano/invierno en menos de 24 horas</string>
-    <string name="dst_loop_disabled_warning">Cambio al horario de verano/invierno hace menos de 3 horas - Lazo cerrado deshabilitado</string>
     <string name="storage">restricción de almacenamiento interno</string>
     <string name="diskfull">Libera al menos %1$d MB de almacenamiento interno. ¡Loop desactivado!</string>
     <string name="wrongformat">Formato incorrecto</string>
