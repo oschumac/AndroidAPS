@@ -1148,6 +1148,8 @@ Eversense-appen.</string>
     <string name="tidepool_upload_tbr">Ladda upp temp basaler</string>
     <string name="tidepool_upload_profile">Ladda upp profilbyten och temp mål</string>
     <string name="tidepool_upload_bg">Ladda upp BG-test</string>
+    <string name="dst_in_24h_warning">Sommar/vintertid inträffar inom 24 timmar</string>
+    <string name="dst_loop_disabled_warning">Sommar/vintertid ändrades för mindre än 3 timmar sedan. Closed Loop avstängt</string>
     <string name="storage">intern lagringsbegränsning</string>
     <string name="diskfull">Frigör minst %1$d MB från internminnet. Loop inaktiverad!</string>
     <string name="wrongformat">Felaktigt format</string>
