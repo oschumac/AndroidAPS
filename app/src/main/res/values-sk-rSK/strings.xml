@@ -1147,6 +1147,8 @@
     <string name="tidepool_upload_tbr">Nahrávať dočasné bazály</string>
     <string name="tidepool_upload_profile">Nahrávať prepnutia profilu, dočasné ciele</string>
     <string name="tidepool_upload_bg">Nahrávať merania z prsta</string>
+    <string name="dst_in_24h_warning">Zmena letného času za menej ako 24 hodín</string>
+    <string name="dst_loop_disabled_warning">Zmena letného času za menej ako 3 hodiny - Uzavretý okruh pozastavený</string>
     <string name="storage">obmedzenie interného úložiska</string>
     <string name="diskfull">Uvoľnite aspoň %1$d MB z interného úložiska! Uzavretý okruh zakázaný!</string>
     <string name="wrongformat">Chybný formát</string>
