@@ -1147,8 +1147,6 @@
     <string name="tidepool_upload_tbr">Enviar basais temporárias</string>
     <string name="tidepool_upload_profile">Enviar trocas de perfil, alvos temporários</string>
     <string name="tidepool_upload_bg">Enviar testes Glicemia</string>
-    <string name="dst_in_24h_warning">Horário de Verão em 24h ou menos</string>
-    <string name="dst_loop_disabled_warning">Horário de Verão a menos de 3 horas - Closed Loop desligado</string>
     <string name="storage">restrição de armazenamento interno</string>
     <string name="diskfull">Liberte pelo menos %1$d MB do armazenamento interno! Loop desativado!</string>
     <string name="wrongformat">Formato incorrecto</string>
